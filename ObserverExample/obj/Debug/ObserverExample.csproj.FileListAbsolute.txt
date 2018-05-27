@@ -1,0 +1,6 @@
+c:\users\manoj\documents\visual studio 2012\Projects\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe.config
+c:\users\manoj\documents\visual studio 2012\Projects\ObserverExample\ObserverExample\bin\Debug\ObserverExample.exe
+c:\users\manoj\documents\visual studio 2012\Projects\ObserverExample\ObserverExample\bin\Debug\ObserverExample.pdb
+c:\users\manoj\documents\visual studio 2012\Projects\ObserverExample\ObserverExample\obj\Debug\ObserverExample.exe
+c:\users\manoj\documents\visual studio 2012\Projects\ObserverExample\ObserverExample\obj\Debug\ObserverExample.pdb
+C:\Users\Manoj\Documents\Visual Studio 2012\Projects\ObserverExample\ObserverExample\obj\Debug\ObserverExample.csprojResolveAssemblyReference.cache
